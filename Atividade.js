@@ -1,5 +1,5 @@
 var listaDePecas = ["Bateria", "Pneu", "Disco de Freio"]
-if (listaDePecas.length < 100){
+if (listaDePecas.length < 10){
     console.log("É possível adicionar peças");
 }
 else{
